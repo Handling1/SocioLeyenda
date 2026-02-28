@@ -1,4 +1,4 @@
-baseURL = "https://socioleyenda.com/"   # tu dominio futuro, puedes dejarlo así de momento
+baseURL = "https://handling1.github.io/"   # tu dominio futuro, puedes dejarlo así de momento
 languageCode = "es-ES"
 title = "Socioleyenda wabalaba"
 theme = "PaperMod"
