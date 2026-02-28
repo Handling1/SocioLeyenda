@@ -1,0 +1,28 @@
+baseURL = "https://socioleyenda.com/"   # tu dominio futuro, puedes dejarlo así de momento
+languageCode = "es-ES"
+title = "Socioleyenda wabalaba"
+theme = "PaperMod"
+
+[params]
+  author = "Tu Nombre"
+  description = "Blog de ciberseguridad"
+  defaultTheme = "dark"                 # dark mode por defecto
+  ShowReadingTime = true                # tiempo estimado de lectura
+  ShowShareButtons = false
+  ShowPostNavLinks = true               # anterior / siguiente post
+  ShowCodeCopyButtons = true            # botón copiar en bloques de código (muy útil para cyber)
+  ShowBreadCrumbs = true
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Sobre mí"
+    url = "/about/"
+    weight = 3
